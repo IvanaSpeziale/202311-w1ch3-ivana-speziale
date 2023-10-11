@@ -109,6 +109,6 @@ input {
   grid-row: 1/2;
   border-bottom: 3px black;
 }
-[type='checkbox']:hover {
-  color: brown;
+.one div:hover {
+  color: yellow;
 }
